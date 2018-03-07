@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soccer Score Counter App</string>
+    <string name="portugal">Portugal</string>
+    <string name="united_states">United States</string>
+    <string name="goals">Goals</string>
+    <string name="fouls">Fouls</string>
+    <string name="goals_quantity">0</string>
+    <string name="fouls_quantity">0</string>
+</resources>
